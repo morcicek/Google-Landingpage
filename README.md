@@ -2,7 +2,7 @@
 This project is clone of Google landing page..
 ## GOOGLE LANDING PAGE
 
--  https://yhekim.github.io/Google-Landing-Page-for-Clarusway-/
+-  https://morcicek.github.io/Google-Landingpage/
 
 -  Here are the web components we designed using HTML5 and CSS3. 
 
